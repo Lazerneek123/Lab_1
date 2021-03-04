@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\bin\Debug\ІндивідуальнеЗавдання.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\bin\Debug\ІндивідуальнеЗавдання.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\bin\Debug\ІндивідуальнеЗавдання.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\obj\Debug\ІндивідуальнеЗавдання.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\obj\Debug\ІндивідуальнеЗавдання.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\obj\Debug\ІндивідуальнеЗавдання.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\obj\Debug\ІндивідуальнеЗавдання.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\obj\Debug\ІндивідуальнеЗавдання.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\obj\Debug\ІндивідуальнеЗавдання.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\ІндивідуальнеЗавдання\obj\Debug\ІндивідуальнеЗавдання.Miner.resources

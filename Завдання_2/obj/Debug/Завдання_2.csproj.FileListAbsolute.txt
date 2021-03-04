@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\bin\Debug\Завдання_2.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\bin\Debug\Завдання_2.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\bin\Debug\Завдання_2.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\obj\Debug\Завдання_2.Form1.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\obj\Debug\Завдання_2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\obj\Debug\Завдання_2.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\obj\Debug\Завдання_2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\obj\Debug\Завдання_2.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_2\obj\Debug\Завдання_2.pdb
